@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Nothing interesting here yet.
+Just a silly goober student making some stuff.
 <!--
 **CyberFox3801/CyberFox3801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
